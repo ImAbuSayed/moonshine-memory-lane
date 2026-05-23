@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moonshine-memory-lane/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Moonshine Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonshine-memory-lane/) |
+| **Get License** | [Obtain a Music License for Moonshine Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonshine-memory-lane/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `bafda3775a9adc51a8e74165a9f9133ff0f82dc057d1c5a5d9895e8a01d67ee5` |
 | **Timestamp** | May 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
