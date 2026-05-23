@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moonshine-memory-lane/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Moonshine Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonshine-memory-lane/) |
+| **Get License** | [Official Music Licensing for Moonshine Memory Lane](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moonshine-memory-lane/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still taste the midnight on your lips
+> The way your body moves right to my fingertips
+> We got the stars falling down like rain
+> Take a ride with me down moonshine memory lane
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
